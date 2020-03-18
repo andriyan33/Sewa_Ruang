@@ -1,0 +1,63 @@
+h2,p,h3{
+    color: #40424a;
+	margin: 0;
+	font-weight: 600;
+	font-family: 'Josefin Sans', sans-serif;
+}
+h2 {
+	font-size: 48px;
+}
+h3 {
+	font-size: 30px;
+}
+p {
+	font-size: 18px;
+	color: #808181;
+	line-height: 1.8;
+}
+img {
+	max-width: 100%;
+}
+th{
+
+    font-size: 70px
+}
+img{
+
+    width: 230px;
+    height: auto;
+}
+.contact{
+    color : black;
+    font-size: 20px;
+
+}
+.kontak {
+    color: blue;
+    font-size: 20px;
+}
+.tkontak{
+    width: 50px;
+    height: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    align : center;
+ 
+}
+.section{
+    height: 100%;
+    width: 100%;
+    
+    
+
+}
+body, html {
+    margin: 0;
+    padding: 0;
+}
+#footer{
+    height:50px;
+    line-height:50px;
+    background:#333;
+    color:#fff;
+}
